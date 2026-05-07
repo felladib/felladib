@@ -66,5 +66,5 @@ I enjoy working on:
 ---
 
 ## 📫 Contact
-- Email: your@email.com
-- LinkedIn: https://linkedin.com/in/your-profile
+- Email: felladib1205@gmail.com
+- LinkedIn: https://linkedin.com/in/dib-fella-886147259
