@@ -39,21 +39,35 @@ I enjoy working on:
 
 ## 🛠 Tech Stack
 
-### AI / ML
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
-![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/Transformers-yellow?style=for-the-badge)
+## 🧠 AI / LLM Engineering
 
-### Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge&logo=fastapi)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-red?style=for-the-badge&logo=keras)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-orange?style=for-the-badge&logo=scikitlearn)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-darkgreen?style=for-the-badge)
+
+`Machine Learning` · `Deep Learning` · `NLP` · `RAG` · `Agentic AI` · `Prompt Engineering` · `AI Evaluation`
+
+---
+
+## ⚙️ Backend & Infrastructure
+
 ![Django](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django)
+![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge&logo=fastapi)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
 
-### Tools
+`Django REST Framework` · `SQL` · `REST APIs`
+
+---
+
+## 🛠 Tools & Workflow
+
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+
+`Jupyter` · `Google Colab` · `Anaconda`
 
 ---
 
